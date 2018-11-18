@@ -1,0 +1,803 @@
+fileFormatVersion: 2
+guid: 8f70037f496d0884c83e5a8af3f9258f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Bloody Fun Day - Gold Egg_0
+    21300002: PC Computer - Bloody Fun Day - Gold Egg_1
+    21300004: PC Computer - Bloody Fun Day - Gold Egg_2
+    21300006: PC Computer - Bloody Fun Day - Gold Egg_3
+    21300008: PC Computer - Bloody Fun Day - Gold Egg_4
+    21300010: PC Computer - Bloody Fun Day - Gold Egg_5
+    21300012: PC Computer - Bloody Fun Day - Gold Egg_6
+    21300014: PC Computer - Bloody Fun Day - Gold Egg_7
+    21300016: PC Computer - Bloody Fun Day - Gold Egg_8
+    21300018: PC Computer - Bloody Fun Day - Gold Egg_9
+    21300020: PC Computer - Bloody Fun Day - Gold Egg_10
+    21300022: PC Computer - Bloody Fun Day - Gold Egg_11
+    21300024: PC Computer - Bloody Fun Day - Gold Egg_12
+    21300026: PC Computer - Bloody Fun Day - Gold Egg_13
+    21300028: PC Computer - Bloody Fun Day - Gold Egg_14
+    21300030: PC Computer - Bloody Fun Day - Gold Egg_15
+    21300032: PC Computer - Bloody Fun Day - Gold Egg_16
+    21300034: PC Computer - Bloody Fun Day - Gold Egg_17
+    21300036: PC Computer - Bloody Fun Day - Gold Egg_18
+    21300038: PC Computer - Bloody Fun Day - Gold Egg_19
+    21300040: PC Computer - Bloody Fun Day - Gold Egg_20
+    21300042: PC Computer - Bloody Fun Day - Gold Egg_21
+    21300044: PC Computer - Bloody Fun Day - Gold Egg_22
+    21300046: PC Computer - Bloody Fun Day - Gold Egg_23
+    21300048: PC Computer - Bloody Fun Day - Gold Egg_24
+    21300050: PC Computer - Bloody Fun Day - Gold Egg_25
+    21300052: PC Computer - Bloody Fun Day - Gold Egg_26
+    21300054: PC Computer - Bloody Fun Day - Gold Egg_27
+    21300056: PC Computer - Bloody Fun Day - Gold Egg_28
+    21300058: PC Computer - Bloody Fun Day - Gold Egg_29
+    21300060: PC Computer - Bloody Fun Day - Gold Egg_30
+    21300062: PC Computer - Bloody Fun Day - Gold Egg_31
+    21300064: PC Computer - Bloody Fun Day - Gold Egg_32
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 161
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a76dcc9e52521141957c44df2e8a030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 161
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b68d64ecf6e94391fe8f52f876a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 161
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00faaa19479bde2409fa46e3e30e8fb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 161
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe1d52df569cf4c8b43176a6cb3224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 109
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585e1408fae960649826c7de03ac00a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 109
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc98cb65fc768214bbc64aa9f9dfc5bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 109
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85502486ee7d58479aa57a48a56e7ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 141
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b31fb74bbec77f49a673563c20dea33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 109
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fd94282b9e41e4789f7110a70dec9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 109
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec94c2ebea9a4940b61d43e040e3889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 109
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf96209d63191b04793f0c6a07b0989c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 67
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609843bdd659a84458c4f2b150617793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 67
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640327bb45917b1499e1bc80ad3393b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 67
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661fd03226cae4241b311ffd4ccf1713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff5c7ed36974b542b65d263c6e030c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 67
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c0710b9302ab84abb9fb991043916d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 67
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7551a7df4dec4409d914485c5805cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c84313746940014e80371c414e37e1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 46
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609daed1f67f67b4a8dd1ecf0c8dd854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 46
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd831be31317e364595706c34c97cfd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87d4a399eb4b4b4b983d4a07f8a7ecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 46
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6eae51d0c864d4e8ca721bd0d14ff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 34
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ac3e1de450ab4daef2ed8b02e3f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 34
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f7a881568c7b4e89accf39f7c3f3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31abf9fb175dd6949af4f81cbcae3f01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af42f5b376d01f45a92519fe31b9647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 24
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5379e8058477a48980a76ea11dadc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 23
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3332c2543f25cb4d8bd0f25d1351d4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 24
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fcf30b02588a5499905480f4ca6e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85037ea2a08bb9a4695906822bfcfe5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fcf7a3b2ad63549a61c8d77c993717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b8956b6aa170f4aa5b1e4980b4e7f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bloody Fun Day - Gold Egg_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 10
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186dcd73730886344b7c18248f5aa4ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: feb24dbde493ead43a5c10795181169a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

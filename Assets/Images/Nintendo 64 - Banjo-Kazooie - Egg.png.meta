@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 1c85678ef31b8c544b84a4be93f1fca1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nintendo 64 - Banjo-Kazooie - Egg_0
+    21300002: Nintendo 64 - Banjo-Kazooie - Egg_1
+    21300004: Nintendo 64 - Banjo-Kazooie - Egg_2
+    21300006: Nintendo 64 - Banjo-Kazooie - Egg_3
+    21300008: Nintendo 64 - Banjo-Kazooie - Egg_4
+    21300010: Nintendo 64 - Banjo-Kazooie - Egg_5
+    21300012: Nintendo 64 - Banjo-Kazooie - Egg_6
+    21300014: Nintendo 64 - Banjo-Kazooie - Egg_7
+    21300016: Nintendo 64 - Banjo-Kazooie - Egg_8
+    21300018: Nintendo 64 - Banjo-Kazooie - Egg_9
+    21300020: Nintendo 64 - Banjo-Kazooie - Egg_10
+    21300022: Nintendo 64 - Banjo-Kazooie - Egg_11
+    21300024: Nintendo 64 - Banjo-Kazooie - Egg_12
+    21300026: Nintendo 64 - Banjo-Kazooie - Egg_13
+    21300028: Nintendo 64 - Banjo-Kazooie - Egg_14
+    21300030: Nintendo 64 - Banjo-Kazooie - Egg_15
+    21300032: Nintendo 64 - Banjo-Kazooie - Egg_16
+    21300034: Nintendo 64 - Banjo-Kazooie - Egg_17
+    21300036: Nintendo 64 - Banjo-Kazooie - Egg_18
+    21300038: Nintendo 64 - Banjo-Kazooie - Egg_19
+    21300040: Nintendo 64 - Banjo-Kazooie - Egg_20
+    21300042: Nintendo 64 - Banjo-Kazooie - Egg_21
+    21300044: Nintendo 64 - Banjo-Kazooie - Egg_22
+    21300046: Nintendo 64 - Banjo-Kazooie - Egg_23
+    21300048: Nintendo 64 - Banjo-Kazooie - Egg_24
+    21300050: Nintendo 64 - Banjo-Kazooie - Egg_25
+    21300052: Nintendo 64 - Banjo-Kazooie - Egg_26
+    21300054: Nintendo 64 - Banjo-Kazooie - Egg_27
+    21300056: Nintendo 64 - Banjo-Kazooie - Egg_28
+    21300058: Nintendo 64 - Banjo-Kazooie - Egg_29
+    21300060: Nintendo 64 - Banjo-Kazooie - Egg_30
+    21300062: Nintendo 64 - Banjo-Kazooie - Egg_31
+    21300064: Nintendo 64 - Banjo-Kazooie - Egg_32
+    21300066: Nintendo 64 - Banjo-Kazooie - Egg_33
+    21300068: Nintendo 64 - Banjo-Kazooie - Egg_34
+    21300070: Nintendo 64 - Banjo-Kazooie - Egg_35
+    21300072: Nintendo 64 - Banjo-Kazooie - Egg_36
+    21300074: Nintendo 64 - Banjo-Kazooie - Egg_37
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9cabf9082df44d9f8f141d91c6c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 198
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6646ac82ad63e44bcf810b8ae80b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 198
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f8eea9f8f6ff347be9229499b60e85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 198
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f35970f1f12bf4495ceda9d11aa0cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 198
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde41bcc8d9a55849a0ac03c1c124f6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 198
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5793c4944160a408afe20f2168b097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 198
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02069a123b4f6d643a1a7196df2bc28f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c13518d45e31248b05c0f21d44282b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66116397435059644821ccc45a100fcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 163
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800cc7d98794964da8cb226a4928652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 163
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91212b8e2d1446a4891940d636d10f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 163
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16028dab345dcb45b5fcfe0b611709a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 163
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d7f9acebd3834d8ef249c0d7a8e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 163
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8f2a8f7fa55d14ea7c5bafb3e859e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 163
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d24ac443755cba40a2f3d34f71abd84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 163
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ba3a1999d22844b47dc570c2716da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 163
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac8d51fc801d940976fda435b77433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 163
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13a74d09bf29b4da22375ecbcadc6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db3c989ed5ca3147993d2ab10dfdcc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 163
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc2d01934f5a27489616fafeee88a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 163
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e651ed7a09631846abe026ea51a52e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 163
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6ccb1723144c34a8767cece393f0e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f6fab01049bdd42b0645d1b15ce2dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33671fb4ce63f94290eec30c0884417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_24
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 163
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd5c1a679a828842b53d6e64d078a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_25
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 163
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698db79e38bef054bb939193ae5e9567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 163
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1e42f9e184d3d4791f8dd6dbe2e505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab762a7a6df6cad47a85754933ee2031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 130
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be8eff08bdc6e841b7a64f0b1055694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 130
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc0a57e9d0a5042848c241868df642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 130
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16230b4aa409414458c2e6e62aa64def
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 130
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f016351cf3384e4bb359bfc02d28d0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_32
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 169
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb7863a918557d4581b8c5e4162b97d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fd4c0adb857e84493ed4a8741d022b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde4ddd7537c5a84c99dfd93961137bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 96
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cebec0cd64e41b44aab3be55b73ccc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 96
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d084aa93fea9e549afbbefc51e92685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Banjo-Kazooie - Egg_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59c7d298fb73e44bd6a755fc845660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7cac0a1093d77af4981682f7483ab518
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
